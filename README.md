@@ -1,4 +1,6 @@
 # hello-world
-My first repository on GitHub
-This is really interesting
-Hello
+public class hello {
+    public static void main(String args[]){
+        System.out.println("Hi");
+    }
+}
